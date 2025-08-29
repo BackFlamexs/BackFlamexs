@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
-  <h1>Olá, eu sou Allan Henrique 👋</h1>
+  <h1>Olá, eu sou Allan Henrique </h1>
 </div>
 
 🎓 Estudante de **Sistemas para a Internet**  
